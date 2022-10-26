@@ -39,4 +39,4 @@ jobs:
           app-name: 'fapu7'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_002FF92696FE4DB9BA8B9BBDFE0FBDED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0BB7014D44D4171973AB1D31489F05C }}
